@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERPApplication", "ERPApplication\ERPApplication.csproj", "{AB0F1E15-0900-4E64-814D-517BAE70AB69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseLayer", "DatabaseLayer\DatabaseLayer.csproj", "{96FB572C-4945-4A33-B01D-54CE22AB87FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0F1E15-0900-4E64-814D-517BAE70AB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0F1E15-0900-4E64-814D-517BAE70AB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0F1E15-0900-4E64-814D-517BAE70AB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0F1E15-0900-4E64-814D-517BAE70AB69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96FB572C-4945-4A33-B01D-54CE22AB87FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FB572C-4945-4A33-B01D-54CE22AB87FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96FB572C-4945-4A33-B01D-54CE22AB87FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96FB572C-4945-4A33-B01D-54CE22AB87FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {996EC8F5-BD4C-4077-94F3-686A8A3AC713}
+	EndGlobalSection
+EndGlobal
